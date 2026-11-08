@@ -1,2 +1,2 @@
-# mint-friends-chat
+# index.html
 My mint chat
